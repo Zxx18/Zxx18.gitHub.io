@@ -6,7 +6,7 @@
     </div>
     <hr/>
     <div style="display: flex;">
-        <div style="width: 75%;">
+        <div style="width: 75%;margin-right: 1em;">
             <h3 style="color: black;font-weight: 600;"><u>Personal information:</u></h3>
             <p style="text-indent: 2em;">Highly self-motivated engineering master student with a great passion for research work, and
                 individual and team-based projects’ experience. My research interest includes Photovoltaic power and
