@@ -37,5 +37,11 @@
         <p><b>D. Lin</b>, X. Li, S. Ding, H. Wen, Y. Du and W. Xiao, “Self-tuning MPPT Scheme based on Reinforcement
             Learning and Beta Parameter in Photovoltaic power Systems”, <span style="color: red;"><i>IEEE Transactions on Power
                 Electronics</i></span>, vol. 36, no. 12, pp. 13826-13838, Dec. 2021. (SCI, ESI Top 1%)</p>
+        <p><b>D. Lin</b>, X. Li, S. Ding and Y. Du, “Strategy comparison of power ramp rate control for photovoltaic
+            systems”, <span style="color: red;"><i>CPSS Transactions on Power Electronics and Applications</i></span>, vol. 5, no. 4, pp. 329-341, Dec.
+            2020</p>
+        <p>X. Jiao, X. Li, <b>D. Lin</b> and W. Xiao, “A Graph Neural Network based Deep Learning Predictor for
+            Spatio-Temporal Group Solar Irradiance Forecasting”, <span style="color: red;"><i>IEEE Transactions on Industrial Informatics</i></span>.
+            (accepted) (DOI:10.1109/TII.2021.3133289)</p>
     </div>
 </div>
