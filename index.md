@@ -17,16 +17,16 @@
         </div>
     </div>
     <h3 style="color: black"><u>Education:</u></h3>
-    <ul>
-        <li style="display: flex;justify-content: space-between;">
+    <div>
+        <div style="display: flex;justify-content: space-between;">
             <p><b>Master</b></p>
             <p>Nanjing Normal University， Electrical Engineering</p>
             <p>Sep. 2019 - Jul. 2022</p>
-        </li>
-        <li style="display: flex;justify-content: space-between;">
+        </div>
+        <div style="display: flex;justify-content: space-between;">
             <p><b>Bachelor</b></p>
             <p>Nanjing Normal University， Electrical Engineering</p>
             <p>Sep. 2015 - Jul. 2019</p>
-        </li>
-    </ul>
+        </div>
+    </div>
 </div>
