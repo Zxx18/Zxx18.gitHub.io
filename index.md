@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
+      <h1 style="color:black;">张三</h1>
       <p><b>硕士研究生</b></p>
       <p><b>xx大学xx学院</b></p>
       <p><b>邮箱：123456789qq.com</b></p>
