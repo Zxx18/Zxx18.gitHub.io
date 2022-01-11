@@ -13,7 +13,7 @@
                 Reinforcement Learning.</p>
         </div>
         <div style="width: 25%;">
-            <img src="./1041BA21-69FA-43EB-BEA8-B313F63C0C9E.jpeg" style="width: 20em;height: 38em;"/>
+            <img src="./1041BA21-69FA-43EB-BEA8-B313F63C0C9E.jpeg" style="width: 20em;height: 35em;"/>
         </div>
     </div>
     <h3 style="color: black;font-weight: 600;"><u>Education:</u></h3>
