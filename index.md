@@ -4,4 +4,7 @@
     <p>E-mail: lindingyi@126.com</p>
 </div>
 <hr/>
-<h3><u>Personal information:</u></h3>
+<h3 style="color: black"><u>Personal information:</u></h3>
+<p style="text-indent: 2em;">Highly self-motivated engineering master student with a great passion for research work, and
+    individual and team-based projects’ experience. My research interest includes Photovoltaic power and
+    Reinforcement Learning.</p>
