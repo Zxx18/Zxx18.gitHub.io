@@ -6,13 +6,13 @@
     </div>
     <hr/>
     <div style="display: flex;">
-        <div style="width: 75%;">
+        <div style="width: 80%;">
             <h3 style="color: black"><u>Personal information:</u></h3>
             <p style="text-indent: 2em;">Highly self-motivated engineering master student with a great passion for research work, and
                 individual and team-based projects’ experience. My research interest includes Photovoltaic power and
                 Reinforcement Learning.</p>
         </div>
-        <div style="width: 25%;">
+        <div style="width: 20%;">
             <img src="./1041BA21-69FA-43EB-BEA8-B313F63C0C9E.jpeg" width="100%"/>
         </div>
     </div>
