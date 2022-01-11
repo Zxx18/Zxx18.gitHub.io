@@ -1,7 +1,12 @@
-<div style="margin: 0 auto;color: black;font-family: 'Times New Roman', Times, serif;text-align: center;">
-    <h1 style="color: black;font-weight: 700;">Dingyi Lin</h1>
-    <p>Phone: (+86)15651792952</p>
-    <p>E-mail: lindingyi@126.com</p>
+<div style="display: flex;">
+    <div style="width: 75%;margin: 0 auto;color: black;font-family: 'Times New Roman', Times, serif;">
+        <h1 style="color: black;font-weight: 700;">Dingyi Lin</h1>
+        <p>Phone: (+86)15651792952</p>
+        <p>E-mail: lindingyi@126.com</p>
+    </div>
+    <div style="width: 25%;">
+        <img src="./1041BA21-69FA-43EB-BEA8-B313F63C0C9E.jpeg" width="100%"/>
+    </div>
 </div>
 <hr/>
 <h3 style="color: black"><u>Personal information:</u></h3>
