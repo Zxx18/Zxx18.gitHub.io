@@ -19,12 +19,14 @@
     <h3 style="color: black;font-weight: 600;"><u>Education:</u></h3>
     <div>
         <div style="display: flex;justify-content: space-between;align-items: center;">
-            
+            <p></p>
+            <p>Master</p>
             <p>Nanjing Normal University， Electrical Engineering</p>
             <p>Sep. 2019 - Jul. 2022</p>
         </div>
-        <div style="display: flex;justify-content: space-between;align-items: center;">
-            
+        <div style="display: flex;justify-content: space-between;">
+            <p></p>
+            <p>Bachelor</p>
             <p>Nanjing Normal University， Electrical Engineering</p>
             <p>Sep. 2015 - Jul. 2019</p>
         </div>
