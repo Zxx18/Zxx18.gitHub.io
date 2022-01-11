@@ -20,13 +20,13 @@
     <div>
         <div style="display: flex;justify-content: space-between;align-items: center;">
             <p></p>
-            <p>Master</p>
+            <p><b>Master</b></p>
             <p>Nanjing Normal University， Electrical Engineering</p>
             <p>Sep. 2019 - Jul. 2022</p>
         </div>
         <div style="display: flex;justify-content: space-between;">
             <p></p>
-            <p>Bachelor</p>
+            <p><b>Bachelor</b></p>
             <p>Nanjing Normal University， Electrical Engineering</p>
             <p>Sep. 2015 - Jul. 2019</p>
         </div>
