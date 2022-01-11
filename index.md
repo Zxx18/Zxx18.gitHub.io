@@ -4,3 +4,4 @@
     <p>E-mail: lindingyi@126.com</p>
 </div>
 <hr/>
+<h3><u>Personal information:</u></h3>
