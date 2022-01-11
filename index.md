@@ -23,5 +23,10 @@
             <p>Nanjing Normal University， Electrical Engineering</p>
             <p>Sep. 2019 - Jul. 2022</p>
         </li>
+        <li style="display: flex;justify-content: space-between;">
+            <p><b>Bachelor</b></p>
+            <p>Nanjing Normal University， Electrical Engineering</p>
+            <p>Sep. 2015 - Jul. 2019</p>
+        </li>
     </ul>
 </div>
